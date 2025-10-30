@@ -1,0 +1,10 @@
+D:\Ramiro Rolon\Alg II\App2\App2\bin\Debug\App2.exe.config
+D:\Ramiro Rolon\Alg II\App2\App2\bin\Debug\App2.exe
+D:\Ramiro Rolon\Alg II\App2\App2\bin\Debug\App2.pdb
+D:\Ramiro Rolon\Alg II\App2\App2\obj\Debug\App2.csproj.AssemblyReference.cache
+D:\Ramiro Rolon\Alg II\App2\App2\obj\Debug\App2.frmTP1.resources
+D:\Ramiro Rolon\Alg II\App2\App2\obj\Debug\App2.Properties.Resources.resources
+D:\Ramiro Rolon\Alg II\App2\App2\obj\Debug\App2.csproj.GenerateResource.cache
+D:\Ramiro Rolon\Alg II\App2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+D:\Ramiro Rolon\Alg II\App2\App2\obj\Debug\App2.exe
+D:\Ramiro Rolon\Alg II\App2\App2\obj\Debug\App2.pdb
