@@ -1,0 +1,7 @@
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP Interfaces Y Abstractas\TP Interfaces\TP Interfaces\bin\Debug\TP Interfaces.exe.config
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP Interfaces Y Abstractas\TP Interfaces\TP Interfaces\bin\Debug\TP Interfaces.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP Interfaces Y Abstractas\TP Interfaces\TP Interfaces\bin\Debug\TP Interfaces.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP Interfaces Y Abstractas\TP Interfaces\TP Interfaces\obj\Debug\TP Interfaces.csproj.AssemblyReference.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP Interfaces Y Abstractas\TP Interfaces\TP Interfaces\obj\Debug\TP Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP Interfaces Y Abstractas\TP Interfaces\TP Interfaces\obj\Debug\TP Interfaces.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP Interfaces Y Abstractas\TP Interfaces\TP Interfaces\obj\Debug\TP Interfaces.pdb

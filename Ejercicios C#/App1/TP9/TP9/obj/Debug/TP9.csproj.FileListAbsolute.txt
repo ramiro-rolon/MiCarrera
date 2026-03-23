@@ -1,0 +1,21 @@
+D:\RR\Alg II\TP9\TP9\obj\Debug\TP9.csproj.AssemblyReference.cache
+D:\RR\Alg II\TP9\TP9\obj\Debug\TP9.csproj.CoreCompileInputs.cache
+D:\RR\Alg II\TP9\TP9\bin\Debug\TP9.exe.config
+D:\RR\Alg II\TP9\TP9\bin\Debug\TP9.exe
+D:\RR\Alg II\TP9\TP9\bin\Debug\TP9.pdb
+D:\RR\Alg II\TP9\TP9\obj\Debug\TP9.exe
+D:\RR\Alg II\TP9\TP9\obj\Debug\TP9.pdb
+D:\Ramiro Rolon\Alg II\TP9\TP9\bin\Debug\TP9.exe.config
+D:\Ramiro Rolon\Alg II\TP9\TP9\bin\Debug\TP9.exe
+D:\Ramiro Rolon\Alg II\TP9\TP9\bin\Debug\TP9.pdb
+D:\Ramiro Rolon\Alg II\TP9\TP9\obj\Debug\TP9.csproj.AssemblyReference.cache
+D:\Ramiro Rolon\Alg II\TP9\TP9\obj\Debug\TP9.csproj.CoreCompileInputs.cache
+D:\Ramiro Rolon\Alg II\TP9\TP9\obj\Debug\TP9.exe
+D:\Ramiro Rolon\Alg II\TP9\TP9\obj\Debug\TP9.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP9\TP9\bin\Debug\TP9.exe.config
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP9\TP9\bin\Debug\TP9.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP9\TP9\bin\Debug\TP9.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP9\TP9\obj\Debug\TP9.csproj.AssemblyReference.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP9\TP9\obj\Debug\TP9.csproj.CoreCompileInputs.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP9\TP9\obj\Debug\TP9.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP9\TP9\obj\Debug\TP9.pdb
