@@ -1,0 +1,7 @@
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP11_BIS\TP11_BIS\bin\Debug\TP11_BIS.exe.config
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP11_BIS\TP11_BIS\bin\Debug\TP11_BIS.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP11_BIS\TP11_BIS\bin\Debug\TP11_BIS.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP11_BIS\TP11_BIS\obj\Debug\TP11_BIS.csproj.AssemblyReference.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP11_BIS\TP11_BIS\obj\Debug\TP11_BIS.csproj.CoreCompileInputs.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP11_BIS\TP11_BIS\obj\Debug\TP11_BIS.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\TP11_BIS\TP11_BIS\obj\Debug\TP11_BIS.pdb
