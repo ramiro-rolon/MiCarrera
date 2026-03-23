@@ -1,0 +1,7 @@
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio TP8\TP8\TP8\TP8\bin\Debug\TP8.exe.config
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio TP8\TP8\TP8\TP8\bin\Debug\TP8.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio TP8\TP8\TP8\TP8\bin\Debug\TP8.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio TP8\TP8\TP8\TP8\obj\Debug\Ejercicios enum.csproj.AssemblyReference.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio TP8\TP8\TP8\TP8\obj\Debug\Ejercicios enum.csproj.CoreCompileInputs.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio TP8\TP8\TP8\TP8\obj\Debug\TP8.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio TP8\TP8\TP8\TP8\obj\Debug\TP8.pdb

@@ -1,0 +1,28 @@
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.AssemblyInfoInputs.cache
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.AssemblyInfo.cs
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.csproj.CoreCompileInputs.cache
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\bin\Debug\net8.0\Ejercicio Clase 2.exe
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\bin\Debug\net8.0\Ejercicio Clase 2.deps.json
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\bin\Debug\net8.0\Ejercicio Clase 2.runtimeconfig.json
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\bin\Debug\net8.0\Ejercicio Clase 2.dll
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\bin\Debug\net8.0\Ejercicio Clase 2.pdb
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.dll
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\refint\Ejercicio Clase 2.dll
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.pdb
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.genruntimeconfig.cache
+D:\Ramiro Rolon\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\ref\Ejercicio Clase 2.dll
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\bin\Debug\net8.0\Ejercicio Clase 2.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\bin\Debug\net8.0\Ejercicio Clase 2.deps.json
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\bin\Debug\net8.0\Ejercicio Clase 2.runtimeconfig.json
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\bin\Debug\net8.0\Ejercicio Clase 2.dll
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\bin\Debug\net8.0\Ejercicio Clase 2.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.AssemblyInfoInputs.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.AssemblyInfo.cs
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.csproj.CoreCompileInputs.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.dll
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\refint\Ejercicio Clase 2.dll
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\Ejercicio Clase 2.genruntimeconfig.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicio Clase 2\Ejercicio Clase 2\obj\Debug\net8.0\ref\Ejercicio Clase 2.dll

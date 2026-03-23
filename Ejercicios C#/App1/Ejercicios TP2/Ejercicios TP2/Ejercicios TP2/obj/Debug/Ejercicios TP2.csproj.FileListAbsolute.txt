@@ -1,0 +1,7 @@
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP2\Ejercicios TP2\Ejercicios TP2\bin\Debug\Ejercicios TP2.exe.config
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP2\Ejercicios TP2\Ejercicios TP2\bin\Debug\Ejercicios TP2.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP2\Ejercicios TP2\Ejercicios TP2\bin\Debug\Ejercicios TP2.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP2\Ejercicios TP2\Ejercicios TP2\obj\Debug\Ejercicios TP2.csproj.AssemblyReference.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP2\Ejercicios TP2\Ejercicios TP2\obj\Debug\Ejercicios TP2.csproj.CoreCompileInputs.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP2\Ejercicios TP2\Ejercicios TP2\obj\Debug\Ejercicios TP2.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP2\Ejercicios TP2\Ejercicios TP2\obj\Debug\Ejercicios TP2.pdb
