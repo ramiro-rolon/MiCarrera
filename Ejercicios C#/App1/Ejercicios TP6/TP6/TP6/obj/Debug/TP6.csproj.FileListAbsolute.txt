@@ -1,0 +1,7 @@
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP6\TP6\TP6\bin\Debug\TP6.exe.config
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP6\TP6\TP6\bin\Debug\TP6.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP6\TP6\TP6\bin\Debug\TP6.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP6\TP6\TP6\obj\Debug\TP6.csproj.AssemblyReference.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP6\TP6\TP6\obj\Debug\TP6.csproj.CoreCompileInputs.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP6\TP6\TP6\obj\Debug\TP6.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP6\TP6\TP6\obj\Debug\TP6.pdb

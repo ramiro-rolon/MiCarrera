@@ -1,0 +1,14 @@
+D:\Ramiro Rolon\Alg II\TP8\TP8\bin\Debug\TP8.exe.config
+D:\Ramiro Rolon\Alg II\TP8\TP8\bin\Debug\TP8.exe
+D:\Ramiro Rolon\Alg II\TP8\TP8\bin\Debug\TP8.pdb
+D:\Ramiro Rolon\Alg II\TP8\TP8\obj\Debug\TP8.csproj.AssemblyReference.cache
+D:\Ramiro Rolon\Alg II\TP8\TP8\obj\Debug\TP8.csproj.CoreCompileInputs.cache
+D:\Ramiro Rolon\Alg II\TP8\TP8\obj\Debug\TP8.exe
+D:\Ramiro Rolon\Alg II\TP8\TP8\obj\Debug\TP8.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP8\TP8\TP8\bin\Debug\TP8.exe.config
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP8\TP8\TP8\bin\Debug\TP8.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP8\TP8\TP8\bin\Debug\TP8.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP8\TP8\TP8\obj\Debug\TP8.csproj.AssemblyReference.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP8\TP8\TP8\obj\Debug\TP8.csproj.CoreCompileInputs.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP8\TP8\TP8\obj\Debug\TP8.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP8\TP8\TP8\obj\Debug\TP8.pdb

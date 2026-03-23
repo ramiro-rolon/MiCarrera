@@ -1,0 +1,7 @@
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP7\TP7\TP7\bin\Debug\TP7.exe.config
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP7\TP7\TP7\bin\Debug\TP7.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP7\TP7\TP7\bin\Debug\TP7.pdb
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP7\TP7\TP7\obj\Debug\TP7.csproj.AssemblyReference.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP7\TP7\TP7\obj\Debug\TP7.csproj.CoreCompileInputs.cache
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP7\TP7\TP7\obj\Debug\TP7.exe
+C:\Users\Thomy\Desktop\Hilet\2do Año\Algoritmos II\Ejercicios TP7\TP7\TP7\obj\Debug\TP7.pdb
