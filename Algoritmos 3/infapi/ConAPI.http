@@ -1,0 +1,6 @@
+@ConAPI_HostAddress = http://localhost:5232
+
+GET {{ConAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
