@@ -10,4 +10,6 @@ public class Usuario{
         this.mail = mail;
         this.pass = pass;
     }
+
+    public Usuario(){}
 }

@@ -4,18 +4,18 @@ using Microsoft.Data.sql;
 
 namespace ApiPract.Repository;
 
-public class MSSQLSimpleObjectRepository : IUsuarioRepositorio{
+public class MSSQLUsuarioRepositorio : IUsuarioRepositorio{
     private string _connectionString;
 
-    public MSSQLSimpleObjectRepository(IConfiguration config){
-        _connectionString = config.GetConnectionString("MSSQL");
-        ?? throw new InvalidOperationException("ERROR AGUEVO");
+    public MSSQLUsuarioRepositorio(IConfiguration config){
+        _connectionString = config.GetConnectionString("MSSQL")
+            ?? throw new InvalidOperationException("ERROR AGUEVO");
     }
 
     public async Task<IEnumerable<Usuario>> GetUsuarios(){
         const string sql = """
             SELECT * FROM usuarios;
-        """;
+        """; 
 
         using var conn = new SqlConnection(this._connectionString);
         return await conn.QueryAsync<SimpleObject>(sql);
@@ -30,6 +30,15 @@ public class MSSQLSimpleObjectRepository : IUsuarioRepositorio{
 
         using var conn = new SqlConnection(this._connectionString);
         return await conn.QuerySingleAsync(sql, usuario);
+    }
+
+    public async Task<IEnumerable<Usuario>> DeleteUsuarios(int usuario){
+        const string sql = """
+            DELETE FROM usuarios WHERE id = @id;
+        """;
+
+        using var conn = new SqlConnection(this._connectionString);
+        return await conn.QueryAsync<Usuario>(sql, new { id = usuario });
     }
 
 }
