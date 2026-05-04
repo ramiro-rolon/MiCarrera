@@ -1,5 +1,5 @@
 /*
-    1. Parametrizar las configurtacuiones y keys usando la interfaz intf IConfiguration
+    1. Parametrizar las configuraciones y keys usando la interfaz intf IConfiguration
 
     2. Crear un endpoint para registrar nuevos usuarios
 
@@ -8,7 +8,7 @@
     4. crear un endpoint que traiga un listado de usuarios que requiera JWT
 */
 
-using ConAPI.Repositories;
+using ApiPract.Repository;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
 

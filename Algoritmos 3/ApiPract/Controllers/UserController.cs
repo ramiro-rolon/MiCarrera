@@ -35,16 +35,17 @@ public class UserController : ControllerBase
     [Route("create")]
     public async Task<IActionResult> InsertarUsuarios([FromBody]Usuario request)
     {
-        int result = await _repository.InsertarUsuarios(request);
+        int result = await _repository.InsertUsuarios(request);
         string message = "Usuario creado correctamente";
         return Ok(new {id = result, message});
     }   
 
     [HttpDelete]
     [Route("delete")]
+    [Authorize]
     public async Task<IActionResult> DeleteUsuarios([FromBody]int request)
     {
-        var users = await _repository.DeleteUsuarios();
+        var users = await _repository.DeleteUsuarios(request);
         string message = "Usuarios eliminados correctamente";
         return Ok(new { users, message });
     }
@@ -63,7 +64,7 @@ public class UserController : ControllerBase
 
         var claims = new[]
         {
-            new Claim(ClaimTypers.Name, user.nombre),
+            new Claim(ClaimTypes.Name, user.nombre),
             new Claim(ClaimTypes.Email, user.mail),
             new Claim("id", user.id.ToString())
         };

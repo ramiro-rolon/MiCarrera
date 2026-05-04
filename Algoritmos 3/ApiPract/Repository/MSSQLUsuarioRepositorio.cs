@@ -1,6 +1,7 @@
 using Dapper;
 using ApiPract.Domain;
-using Microsoft.Data.sql;
+using Microsoft.Data.Sql;
+using Microsoft.Data.SqlClient;
 
 namespace ApiPract.Repository;
 
@@ -18,7 +19,7 @@ public class MSSQLUsuarioRepositorio : IUsuarioRepositorio{
         """; 
 
         using var conn = new SqlConnection(this._connectionString);
-        return await conn.QueryAsync<SimpleObject>(sql);
+        return await conn.QueryAsync<Usuario>(sql);
     }
 
     public async Task<int> InsertUsuarios(Usuario usuario){
