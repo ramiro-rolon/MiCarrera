@@ -24,13 +24,13 @@ public class MSSQLUsuarioRepositorio : IUsuarioRepositorio{
 
     public async Task<int> InsertUsuarios(Usuario usuario){
         const string sql = """
-            INSERT INTO Usuarios ("nombre", "email", "pass") 
+            INSERT INTO Usuarios ("nombre", "email", "Contrasena") 
             VALUES(@nombre, @mail, @pass);
             SELECT SCOPE_IDENTITY();
         """;
 
         using var conn = new SqlConnection(this._connectionString);
-        return await conn.QuerySingleAsync(sql, usuario);
+        return await conn.QuerySingleAsync<int>(sql, usuario);
     }
 
     public async Task<IEnumerable<Usuario>> DeleteUsuarios(int usuario){
