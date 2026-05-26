@@ -1,0 +1,1 @@
+a:2:{s:7:"Usuario";a:2:{s:8:"password";s:7:"Usuario";s:6:"activo";i:0;}s:5:"Admin";a:2:{s:8:"password";s:5:"Admin";s:6:"activo";i:1;}}
