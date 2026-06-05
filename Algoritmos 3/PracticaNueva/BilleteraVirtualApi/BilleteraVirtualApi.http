@@ -1,0 +1,6 @@
+@BilleteraVirtualApi_HostAddress = http://localhost:5136
+
+GET {{BilleteraVirtualApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
