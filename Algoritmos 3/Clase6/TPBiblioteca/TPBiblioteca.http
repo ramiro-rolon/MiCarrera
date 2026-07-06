@@ -1,0 +1,6 @@
+@TPBiblioteca_HostAddress = http://localhost:5263
+
+GET {{TPBiblioteca_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
