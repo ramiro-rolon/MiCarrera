@@ -1,0 +1,7 @@
+1;Ricardo;Bernal;1;MAT-1042
+2;Valentina;Sosa;4;MAT-1294
+3;Jorge;Castillo;3;MAT-0871
+4;Elena;Ruiz;4;MAT-5530
+5;Pablo;Noriega;1;MAT-3319
+6;Florencia;Diaz;5;MAT-7721
+7;Julian;Castro;5;MAT-1562

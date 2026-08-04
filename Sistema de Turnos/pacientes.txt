@@ -1,0 +1,8 @@
+1;Maria;Gomez;28456789;OSDE
+3;Ana;Lopez;41234567;Galeno
+4;Roberto;Martinez;20123456;PAMI
+5;Lucia;Perez;38765432;Medicus
+6;Ramiro;Rolon;43184871;Particular
+7;Silvia;Castelluccio;16248789;PAMI
+8;Daniel;Rolon;12880357;PAMI
+9;Marcelo;Rodriguez;1250569;OSDE

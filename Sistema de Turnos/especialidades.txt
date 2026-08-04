@@ -1,0 +1,5 @@
+1;Clinica Medica
+2;Cardiologia
+3;Pediatria
+4;Traumatologia
+5;Ginecologia
